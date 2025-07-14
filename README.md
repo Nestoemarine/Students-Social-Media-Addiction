@@ -26,7 +26,42 @@ The dataset includes the following key attributes:
 
 ## 📈 Visualizations & Insights
 
-### 1. `social media addiction.png`
+### 1. `Average Daily Usage by Country And Gender.png`
+**Country & Gender-Based Usage**:
+- Higher usage seen in countries like India and USA.
+- Females tend to have slightly higher daily social media use than males.
+
+---
+
+### 2. `Mental Health, Addicted Score and Sleep Hours.png`
+**Correlation Donut Chart**:
+- **47.93%** of data points relate to Addicted Score.
+- **45.09%** relate to Sleeping Hours.
+- Clear evidence of a negative correlation between addiction and sleep duration.
+
+### 3. `Most Used Platform.png`
+**Top Platforms Used by Students**:
+- Instagram, TikTok, and Facebook dominate.
+- Instagram is the leading platform, used by 249 students.
+
+This reveals where most student engagement is concentrated.
+
+---
+
+### 4. `Impact on Academic Performance (in main dashboard)`
+**Academic Level Breakdown**:
+- Undergraduates and high school students are most affected.
+- Over 96% of affected students belong to these groups.
+---
+
+  ### 5. `Student Mental Health Score.png`
+**Distribution of Mental Health Scores**:
+- Most students report scores between 5 and 7.
+- Highlights moderate mental strain due to social media.
+
+
+---
+### 6. `social media addiction.png`
 **Key Metrics Dashboard**:
 - **Addicted Score:** 2227
 - **Average Daily Usage:** 4.70 hours
@@ -37,43 +72,6 @@ These headline metrics give an overview of the student population's engagement a
 
 ---
 
-### 2. `Most Used Platform.png`
-**Top Platforms Used by Students**:
-- Instagram, TikTok, and Facebook dominate.
-- Instagram is the leading platform, used by 249 students.
-
-This reveals where most student engagement is concentrated.
-
----
-
-### 3. `Student Mental Health Score.png`
-**Distribution of Mental Health Scores**:
-- Most students report scores between 5 and 7.
-- Highlights moderate mental strain due to social media.
-
----
-
-### 4. `Mental Health, Addicted Score and Sleep Hours.png`
-**Correlation Donut Chart**:
-- **47.93%** of data points relate to Addicted Score.
-- **45.09%** relate to Sleeping Hours.
-- Clear evidence of a negative correlation between addiction and sleep duration.
-
----
-
-### 5. `Average Daily Usage by Country And Gender.png`
-**Country & Gender-Based Usage**:
-- Higher usage seen in countries like India and USA.
-- Females tend to have slightly higher daily social media use than males.
-
----
-
-### 6. `Impact on Academic Performance (in main dashboard)`
-**Academic Level Breakdown**:
-- Undergraduates and high school students are most affected.
-- Over 96% of affected students belong to these groups.
-
----
 
 ## 🧠 Key Takeaways
 
